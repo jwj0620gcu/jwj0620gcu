@@ -2,9 +2,10 @@
   <img src="./developer.jpg" alt="Developer Banner" width="100%" />
 </p>
 
-## 👋 Hi there, I'm Wonjun!
-##- 🎓 Software Engineering Student @ Gachon University  
-##- 🚀 Passionate about **Planning, AI, Web, and Mobile App Development**  
+# 👋 Hi there, I'm Wonjun!
+- 🎓 **Software Engineering Student @ Gachon University**  
+- 🚀 Passionate about **Planning, AI, Web, and Mobile App Development**  
+
 <!--
 **jwj0620gcu/jwj0620gcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
