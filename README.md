@@ -5,7 +5,7 @@
 # 👋 Hi there, I'm Wonjun!
 - 🎓 **Software Engineering Student @ Gachon University**  
 - 🚀 Passionate about **Planning, AI, Web, and Mobile App Development**  
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="border-radius:50%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" style="border-radius:50%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="border-radius:50%;" />
